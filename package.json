@@ -1,0 +1,9 @@
+{
+  "name": "juego-1",
+  "version": "1.0.0",
+  "description": "Juego 1: juego de cartas y boton rojo con multijugador",
+  "main": "servidor.js",
+  "scripts": { "start": "node servidor.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
